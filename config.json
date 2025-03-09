@@ -1,0 +1,6 @@
+{
+    "email_notifications": true,
+    "email": "your_email@gmail.com",
+    "password": "yourpassword",
+    "recipient_email": "friend@example.com"
+}
