@@ -1,0 +1,6 @@
+plyer
+smtplib
+tkinter
+email
+json
+datetime
